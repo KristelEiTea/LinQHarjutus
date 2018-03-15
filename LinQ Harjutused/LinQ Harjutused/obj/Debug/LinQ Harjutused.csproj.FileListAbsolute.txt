@@ -1,0 +1,7 @@
+D:\#RandomThings\C#\Studio\LinQ Harjutused\LinQ Harjutused\bin\Debug\LinQ Harjutused.exe.config
+D:\#RandomThings\C#\Studio\LinQ Harjutused\LinQ Harjutused\bin\Debug\LinQ Harjutused.exe
+D:\#RandomThings\C#\Studio\LinQ Harjutused\LinQ Harjutused\bin\Debug\LinQ Harjutused.pdb
+D:\#RandomThings\C#\Studio\LinQ Harjutused\LinQ Harjutused\obj\Debug\LinQ Harjutused.csprojResolveAssemblyReference.cache
+D:\#RandomThings\C#\Studio\LinQ Harjutused\LinQ Harjutused\obj\Debug\LinQ Harjutused.csproj.CoreCompileInputs.cache
+D:\#RandomThings\C#\Studio\LinQ Harjutused\LinQ Harjutused\obj\Debug\LinQ Harjutused.exe
+D:\#RandomThings\C#\Studio\LinQ Harjutused\LinQ Harjutused\obj\Debug\LinQ Harjutused.pdb
